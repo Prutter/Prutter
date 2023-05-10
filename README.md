@@ -1,4 +1,4 @@
-![signup1](https://user-images.githubusercontent.com/110126989/236902446-f8ef4c41-f78e-4303-b137-ddb88c48fccc.jpg)
+![signup1](https://i.ibb.co/vXBb7vj/Purple-Blue-Modern-Gaming-Youtube-Thumbnail.jpg)
 
 <!DOCTYPE html>
 <html lang="en">
