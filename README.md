@@ -1,4 +1,5 @@
-https://user-images.githubusercontent.com/110126989/236902446-f8ef4c41-f78e-4303-b137-ddb88c48fccc.jpg
+![signup1](https://user-images.githubusercontent.com/110126989/236902446-f8ef4c41-f78e-4303-b137-ddb88c48fccc.jpg)
+
 <!DOCTYPE html>
 <html lang="en">
 <body style="background-color: black;color: yellowgreen;font-size: 22px;border: 3px solid yellowgreen;padding: 10px;text-align: center;margin: auto;">
