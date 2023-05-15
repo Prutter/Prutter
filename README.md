@@ -18,10 +18,7 @@
 
 - 📄 Here is my portfolio [Click Me](https://prutter.github.io/)
 
-- ⚡ Fun fact **I am a story writter and have a keen interest in geopolitical.**
-
-- 🔭 It is my recent project on Urban Services developed in Html, CSS and JavaScript as a collaborated project completed in 5 days. Deployed Link<br>- 🌱 I’m currently learning :- Advance Java and JavaScript<br><br>- 💬 Ask me about:- Java, Html, CSS, JavaScript<br><br>- 📫 How to reach me:- kashishbansal044@gmail.com<br><br>- 📄 Have a view at my portfolio:- My Portfolio link<br><br>- 📄 Know about my experiences:- My Resume<br><br>- ⚡ Fun fact I am a story writer and have a keen interest in geopolitical situations.
-
+- ⚡ Fun fact **I am a story writter and have a keen interest in geopolitical situations.**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kashish-bansal-842706147) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@kashish44338566) 
