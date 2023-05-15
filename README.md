@@ -5,7 +5,7 @@
 
 
 # 💫 About Me:
-- 🔭 I’m currently working on [E- Commerce for Online selling and buying goods](https://github.com/Prutter/icky-thunder-5613/)
+- 🔭 I’m currently working on [E- Commerce for Online selling and buying goods]([https://github.com/Prutter/icky-thunder-5613/](https://github.com/Prutter/icky-thunder-5613/))
 
 - 🌱 I’m currently learning **enterprise level spring boot application development.**
 
