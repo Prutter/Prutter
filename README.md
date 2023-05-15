@@ -1,7 +1,8 @@
 ![signup1](https://i.ibb.co/vXBb7vj/Purple-Blue-Modern-Gaming-Youtube-Thumbnail.jpg)
 <h1 align="center">Hi 👋, I'm Kashish Bansal</h1>
 <h3 align="center">A passionate Java Full Stack Web Developer</h3>
-<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcamo.githubusercontent.com%2F8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84%2F68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966&tbnid=6_7BCMkOF0X1vM&vet=12ahUKEwj1leK6iff-AhVr-nMBHSAvDc8QMygsegUIARCZAw..i&imgrefurl=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&docid=CJdgcKdcN0j58M&w=800&h=600&q=gif%20of%20coding&ved=2ahUKEwj1leK6iff-AhVr-nMBHSAvDc8QMygsegUIARCZAw" align="right" width="300px">
+<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcamo.githubusercontent.com%2F8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84%2F68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966&tbnid=6_7BCMkOF0X1vM&vet=12ahUKEwj1leK6iff-AhVr-nMBHSAvDc8QMygsegUIARCZAw..i&imgrefurl=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&docid=CJdgcKdcN0j58M&w=800&h=600&q=gif%20of%20coding&ved=2ahUKEwj1leK6iff-AhVr-nMBHSAvDc8QMygsegUIARCZAw" align="right" width="300">
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prutter" alt="prutter" /></a> </p>
 
 - 🔭 I’m currently working on [E- Commerce for Online selling and buying goods](https://github.com/Prutter/icky-thunder-5613)
