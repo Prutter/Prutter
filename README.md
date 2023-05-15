@@ -5,8 +5,6 @@
 
 
 # 💫 About Me:
-- 🔭 I’m currently working on [E- Commerce for Online selling and buying goods](https://github.com/Prutter/OnlineVegetableStore)
-
 - 🌱 I’m currently learning **enterprise level spring boot application development.**
 
 - 👯 I’m looking to collaborate on **UI based Java application**
